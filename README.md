@@ -29,6 +29,9 @@ Vous devrez inclure dans votre application une recherche générique sous la for
 ## Gems
 Vous pouvez utiliser des gems existantes en décrivant en commentaire dans le Gemfile la fonctionnalité rendue par la gem.
 
+## Seed
+Vous devez implémenter une seed afin qu'un jeu de données soit facile à générer pour tester votre application.
+
 ## Base de données
 Vous devez utiliser Postgresql combiné à Active Record
 
@@ -66,7 +69,7 @@ Les rendus doivent figurer sur un seul compte par groupe.
 Le rendu s'effectuera via un repos GIT. L'adresse du rendu est envoyé par mail.
 Le mail de rendu est thibaud.maurel@ynov.com
 Les fichiers rendus doivent contenir
-  - L'arborescence du projet, immédiatement exploitable après création des bases de données et exécution des migrations.
+  - L'arborescence du projet, immédiatement exploitable après création des bases de données, exécution des migrations et de la seed.
   - En cas de développement d'une GEM, l'arborescence de la gem.
   - Un fichier README expliquant en quelques lignes ce que fait l'application.
   - Un diagramme présentant les différentes tables ainsi que les liens entre celles ci.
