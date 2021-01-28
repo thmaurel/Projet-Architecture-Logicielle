@@ -81,12 +81,13 @@ Pour tout autre type de fichier, veuillez demander à l'enseignant si son inclus
 La soutenance dure 20 minutes durant lesquelles les membres présentent leur travail. Un échange de questions peut se faire entre le professeur et les membres du groupe.
 
 # Groupes
-- Pierre VILLIERS & Jean RAGUENEAU
-- Adrien LEIB & Hugo-Jean EGU
-- Gauthier LECOUFFE & Antoine HALLER
-- Maxence DUBUCHE & Guillaume FITAMANT
-- Zahir MENDACI & Ylane TURAM-ULIEN
-- Ihcen BORJI & Younes AZIZE
-- Zakaria MOUBARAK & Ndeye Awa DIOP
-- Anthony KHELIL & Sarujan RAJARATNAM
-- Saleh DASSOUKHI & Clément PALAU
+- Pierre VILLIERS & Jean RAGUENEAU : 9h30
+- Adrien LEIB & Hugo-Jean EGU : 10h
+- Gauthier LECOUFFE & Antoine HALLER : 10h30
+- Maxence DUBUCHE & Guillaume FITAMANT : 11h
+- Zahir MENDACI & Ylane TURAM-ULIEN : 11H30
+- Ihcen BORJI & Younes AZIZE : 12h
+- Zakaria MOUBARAK & Ndeye Awa DIOP : 12h30
+- Anthony KHELIL & Sarujan RAJARATNAM : 14h30
+- Saleh DASSOUKHI : 15h
+- Clément PALAU : 15h30
